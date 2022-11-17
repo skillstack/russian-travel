@@ -1,6 +1,6 @@
 .place {
   display: grid;
-  grid-template-columns: fit-content(460px) fit-content(484px);;
+  grid-template-columns: fit-content(460px) fit-content(484px);
   gap: 48px 40px;
 }
 
